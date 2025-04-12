@@ -1,4 +1,4 @@
-const cacheName = "Darkspecs-Drunk Driving Simulation-0.1.0";
+const cacheName = "Darkspecs-Drunk Driving Simulation-1.0.0";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js.unityweb",
